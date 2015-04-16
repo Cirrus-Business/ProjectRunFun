@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="activity_list">
+        <item>Town</item>
+        <item>Current Objectives</item>
+        <item>Run Statistics</item>
+    </array>
+</resources>
